@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppFireStore</string>
+    <string name="edtNome">Nome:</string>
+    <string name="edtEndereco">Endereço:</string>
+    <string name="edtBairro">Bairro:</string>
+    <string name="edtCep">Cep:</string>
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="btnListar">Listar</string>
+</resources>
